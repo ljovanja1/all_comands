@@ -3,4 +3,6 @@
 * git init - создает локальные репозитории
 * git commit - создает коммит
 ## Ветки
-git - branch = список веток
+git - branch = список
+vcvc
+asfasf
