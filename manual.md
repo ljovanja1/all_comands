@@ -9,3 +9,4 @@
 ## Ветки
 * git branch - выводит список веток
 * git branch Branch_name - создает новую ветку с именем branch_name
+* git merge - сливает ветки
