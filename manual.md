@@ -10,3 +10,4 @@
 * git branch - выводит список веток
 * git branch Branch_name - создает новую ветку с именем branch_name
 * git merge - сливает ветки
+* git log --graph - позволяет отобразить коммиты в виде дерева.
