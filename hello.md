@@ -1,4 +1,4 @@
-HELLO IT'S ROMAN(![Alt text](lEhlDKNu1mI.jpg))
+HELLO IT'S ROMAN(![lEhlDKNu1mI.jpg](lEhlDKNu1mI.jpg))
 # Краткое руговодство по Git
 # Основные команды
 ## Как задать имя пользователя и адрес электронной почты
