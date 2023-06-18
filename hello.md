@@ -1,4 +1,4 @@
-HELLO IT'S ROMAN(![lEhlDKNu1mI.jpg](lEhlDKNu1mI.jpg))
+HELLO IT'S ROMAN(![https://vk.com/lr997?z=photo272625488_457244928%2Falbum272625488_0%2Frev](lEhlDKNu1mI.jpg))
 # Краткое руговодство по Git
 # Основные команды
 ## Как задать имя пользователя и адрес электронной почты
