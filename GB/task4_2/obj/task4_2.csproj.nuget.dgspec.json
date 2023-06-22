@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Роман\\Desktop\\Geekbrains git\\GB\\task4\\task4.csproj": {}
+    "C:\\Users\\Роман\\Desktop\\Geekbrains git\\GB\\task4_2\\task4_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Роман\\Desktop\\Geekbrains git\\GB\\task4\\task4.csproj": {
+    "C:\\Users\\Роман\\Desktop\\Geekbrains git\\GB\\task4_2\\task4_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Роман\\Desktop\\Geekbrains git\\GB\\task4\\task4.csproj",
-        "projectName": "task4",
-        "projectPath": "C:\\Users\\Роман\\Desktop\\Geekbrains git\\GB\\task4\\task4.csproj",
+        "projectUniqueName": "C:\\Users\\Роман\\Desktop\\Geekbrains git\\GB\\task4_2\\task4_2.csproj",
+        "projectName": "task4_2",
+        "projectPath": "C:\\Users\\Роман\\Desktop\\Geekbrains git\\GB\\task4_2\\task4_2.csproj",
         "packagesPath": "C:\\Users\\Роман\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Роман\\Desktop\\Geekbrains git\\GB\\task4\\obj\\",
+        "outputPath": "C:\\Users\\Роман\\Desktop\\Geekbrains git\\GB\\task4_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Роман\\AppData\\Roaming\\NuGet\\NuGet.Config"
